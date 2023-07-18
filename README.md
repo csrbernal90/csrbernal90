@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cesar Bernal</h1>
 <h3 align="center">Q&A enginner | Systems Engineer | NotFuntionalTesting | LoadRunner, Jmeter, SoapUI, Postman</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csrbernal90" alt="csrbernal90" /></a> </p>
-
 - 🌱 I’m currently learning **Performance test, automation test, Q&A**
 
 - 💬 Ask me about **Loadrunner, Jmeter**
